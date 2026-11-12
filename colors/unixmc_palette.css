@@ -1,0 +1,19 @@
+/* UnixMC brand palette – sampled from the clock logo */
+:root {
+  --unixmc-clock-gold: #dc9613; /* Clock Gold – Primary brand gold – clock rim, main accent */
+  --unixmc-sun-gold: #fad64a; /* Sun Gold – Light gold – highlights on the rim, title face */
+  --unixmc-amber: #e9b115; /* Amber – Mid gold – shading between Clock Gold and Sun Gold */
+  --unixmc-highlight: #fef287; /* Highlight – Specular highlight, glints */
+  --unixmc-cream: #fef8d7; /* Cream – Lightest tone – light backgrounds, text on dark */
+  --unixmc-bronze: #b26411; /* Bronze – Dark gold shading, borders */
+  --unixmc-ember: #752802; /* Ember – Deep orange-brown – title extrusion, depth */
+  --unixmc-maroon: #4a1212; /* Maroon – Outline tone, warm dark */
+  --unixmc-outline: #3a0f0f; /* Outline – Darkest warm – pixel outline */
+  --unixmc-midnight: #0e0d16; /* Midnight – Darkest neutral – clock face, page background */
+  --unixmc-night: #1a1730; /* Night – Primary dark background */
+  --unixmc-slate: #2b3255; /* Slate – Dark blue panels */
+  --unixmc-dusk: #3a2949; /* Dusk – Purple-grey shadow */
+  --unixmc-steel: #4b5c85; /* Steel – Muted blue – glass reflection */
+  --unixmc-dial-blue: #4b68d0; /* Dial Blue – Bright blue accent – dial jewel */
+  --unixmc-deep-blue: #3a53ac; /* Deep Blue – Dark blue accent */
+}

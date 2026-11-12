@@ -1,0 +1,38 @@
+UnixMC brand colours (sampled directly from the clock logo)
+
+Clock Gold   #DC9613
+Sun Gold     #FAD64A
+Amber        #E9B115
+Highlight    #FEF287
+Cream        #FEF8D7
+Bronze       #B26411
+Ember        #752802
+Maroon       #4A1212
+Outline      #3A0F0F
+Midnight     #0E0D16
+Night        #1A1730
+Slate        #2B3255
+Dusk         #3A2949
+Steel        #4B5C85
+Dial Blue    #4B68D0
+Deep Blue    #3A53AC
+
+CSS:
+:root {
+  --unixmc-gold: #DC9613;
+  --unixmc-gold-light: #FAD64A;
+  --unixmc-gold-mid: #E9B115;
+  --unixmc-highlight: #FEF287;
+  --unixmc-cream: #FEF8D7;
+  --unixmc-bronze: #B26411;
+  --unixmc-ember: #752802;
+  --unixmc-maroon: #4A1212;
+  --unixmc-outline: #3A0F0F;
+  --unixmc-midnight: #0E0D16;
+  --unixmc-night: #1A1730;
+  --unixmc-slate: #2B3255;
+  --unixmc-dusk: #3A2949;
+  --unixmc-steel: #4B5C85;
+  --unixmc-blue: #4B68D0;
+  --unixmc-blue-dark: #3A53AC;
+}
