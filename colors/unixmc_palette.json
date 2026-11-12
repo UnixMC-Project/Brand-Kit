@@ -1,0 +1,198 @@
+{
+  "name": "UnixMC brand palette",
+  "source": "Sampled from the clock logo",
+  "colors": [
+    {
+      "name": "Clock Gold",
+      "id": "clock-gold",
+      "hex": "#DC9613",
+      "rgb": [
+        220,
+        150,
+        19
+      ],
+      "group": "gold",
+      "role": "Primary brand gold – clock rim, main accent"
+    },
+    {
+      "name": "Sun Gold",
+      "id": "sun-gold",
+      "hex": "#FAD64A",
+      "rgb": [
+        250,
+        214,
+        74
+      ],
+      "group": "gold",
+      "role": "Light gold – highlights on the rim, title face"
+    },
+    {
+      "name": "Amber",
+      "id": "amber",
+      "hex": "#E9B115",
+      "rgb": [
+        233,
+        177,
+        21
+      ],
+      "group": "gold",
+      "role": "Mid gold – shading between Clock Gold and Sun Gold"
+    },
+    {
+      "name": "Highlight",
+      "id": "highlight",
+      "hex": "#FEF287",
+      "rgb": [
+        254,
+        242,
+        135
+      ],
+      "group": "gold",
+      "role": "Specular highlight, glints"
+    },
+    {
+      "name": "Cream",
+      "id": "cream",
+      "hex": "#FEF8D7",
+      "rgb": [
+        254,
+        248,
+        215
+      ],
+      "group": "gold",
+      "role": "Lightest tone – light backgrounds, text on dark"
+    },
+    {
+      "name": "Bronze",
+      "id": "bronze",
+      "hex": "#B26411",
+      "rgb": [
+        178,
+        100,
+        17
+      ],
+      "group": "warm",
+      "role": "Dark gold shading, borders"
+    },
+    {
+      "name": "Ember",
+      "id": "ember",
+      "hex": "#752802",
+      "rgb": [
+        117,
+        40,
+        2
+      ],
+      "group": "warm",
+      "role": "Deep orange-brown – title extrusion, depth"
+    },
+    {
+      "name": "Maroon",
+      "id": "maroon",
+      "hex": "#4A1212",
+      "rgb": [
+        74,
+        18,
+        18
+      ],
+      "group": "warm",
+      "role": "Outline tone, warm dark"
+    },
+    {
+      "name": "Outline",
+      "id": "outline",
+      "hex": "#3A0F0F",
+      "rgb": [
+        58,
+        15,
+        15
+      ],
+      "group": "warm",
+      "role": "Darkest warm – pixel outline"
+    },
+    {
+      "name": "Midnight",
+      "id": "midnight",
+      "hex": "#0E0D16",
+      "rgb": [
+        14,
+        13,
+        22
+      ],
+      "group": "night",
+      "role": "Darkest neutral – clock face, page background"
+    },
+    {
+      "name": "Night",
+      "id": "night",
+      "hex": "#1A1730",
+      "rgb": [
+        26,
+        23,
+        48
+      ],
+      "group": "night",
+      "role": "Primary dark background"
+    },
+    {
+      "name": "Slate",
+      "id": "slate",
+      "hex": "#2B3255",
+      "rgb": [
+        43,
+        50,
+        85
+      ],
+      "group": "night",
+      "role": "Dark blue panels"
+    },
+    {
+      "name": "Dusk",
+      "id": "dusk",
+      "hex": "#3A2949",
+      "rgb": [
+        58,
+        41,
+        73
+      ],
+      "group": "night",
+      "role": "Purple-grey shadow"
+    },
+    {
+      "name": "Steel",
+      "id": "steel",
+      "hex": "#4B5C85",
+      "rgb": [
+        75,
+        92,
+        133
+      ],
+      "group": "blue",
+      "role": "Muted blue – glass reflection"
+    },
+    {
+      "name": "Dial Blue",
+      "id": "dial-blue",
+      "hex": "#4B68D0",
+      "rgb": [
+        75,
+        104,
+        208
+      ],
+      "group": "blue",
+      "role": "Bright blue accent – dial jewel"
+    },
+    {
+      "name": "Deep Blue",
+      "id": "deep-blue",
+      "hex": "#3A53AC",
+      "rgb": [
+        58,
+        83,
+        172
+      ],
+      "group": "blue",
+      "role": "Dark blue accent"
+    }
+  ]
+}
